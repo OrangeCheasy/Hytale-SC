@@ -1,2 +1,1 @@
-# Hytale-Projects
-Modding and plugin creation projects for Hytale game.
+# Hytale custom fishing and sea creature mod/plugin
