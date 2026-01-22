@@ -1,4 +1,4 @@
-package dev.hytalemodding.events;
+package mliam.hyfishing.events;
 
 import com.hypixel.hytale.server.core.Message;
 import com.hypixel.hytale.server.core.entity.entities.Player;
