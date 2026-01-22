@@ -1,13 +1,13 @@
 {
-  "Group": "dev.hytalemodding",
-  "Name": "ExamplePlugin",
+  "Group": "mliam.hyfishing",
+  "Name": "HyFishing",
   "Version": "${version}",
-  "Description": "Description of your plugin",
+  "Description": "Fishing and Sea Creature plugin for Hytale.",
   "Authors": [
     {
-      "Name": "Your Name",
-      "Email": "your.email@example.com",
-      "Url": "https://your-website.com"
+      "Name": "Liam Mo",
+      "Email": "OrangeCheasy@gmail.com",
+      "Url": "https://github.com/OrangeCheasy"
     }
   ],
   "Website": "https://your-plugin-website.com",
@@ -16,5 +16,5 @@
   "OptionalDependencies": {},
   "DisabledByDefault": false,
   "IncludesAssetPack": false,
-  "Main": "dev.hytalemodding.ExamplePlugin"
+  "Main": "mliam.hyfishing.ExamplePlugin"
 }
